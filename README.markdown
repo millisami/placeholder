@@ -1,3 +1,6 @@
+New feature added by me.
+
+
 Placeholder
 ===========
 Placeholder is a simple little gem that inserts image placeholders into your design's wireframe. It uses www.placehold.it's awesome service.
